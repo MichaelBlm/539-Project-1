@@ -1,0 +1,15 @@
+/home/mike/steg-proj-p2/bin/Debug/net7.0/steg-proj-p2
+/home/mike/steg-proj-p2/bin/Debug/net7.0/steg-proj-p2.deps.json
+/home/mike/steg-proj-p2/bin/Debug/net7.0/steg-proj-p2.runtimeconfig.json
+/home/mike/steg-proj-p2/bin/Debug/net7.0/steg-proj-p2.dll
+/home/mike/steg-proj-p2/bin/Debug/net7.0/steg-proj-p2.pdb
+/home/mike/steg-proj-p2/obj/Debug/net7.0/steg-proj-p2.csproj.AssemblyReference.cache
+/home/mike/steg-proj-p2/obj/Debug/net7.0/steg-proj-p2.GeneratedMSBuildEditorConfig.editorconfig
+/home/mike/steg-proj-p2/obj/Debug/net7.0/steg-proj-p2.AssemblyInfoInputs.cache
+/home/mike/steg-proj-p2/obj/Debug/net7.0/steg-proj-p2.AssemblyInfo.cs
+/home/mike/steg-proj-p2/obj/Debug/net7.0/steg-proj-p2.csproj.CoreCompileInputs.cache
+/home/mike/steg-proj-p2/obj/Debug/net7.0/steg-proj-p2.dll
+/home/mike/steg-proj-p2/obj/Debug/net7.0/refint/steg-proj-p2.dll
+/home/mike/steg-proj-p2/obj/Debug/net7.0/steg-proj-p2.pdb
+/home/mike/steg-proj-p2/obj/Debug/net7.0/steg-proj-p2.genruntimeconfig.cache
+/home/mike/steg-proj-p2/obj/Debug/net7.0/ref/steg-proj-p2.dll

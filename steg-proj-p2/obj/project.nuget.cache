@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1BBD9HRyEN2O1Qkx4XqH4/tAK8OIVwG316V5jVlaeQia6KI6oVfuJbXOBpqFCutj6Tkrxj2dj+p9aU9mf3TTpQ==",
+  "success": true,
+  "projectFilePath": "/home/mike/steg-proj-p2/steg-proj-p2.csproj",
+  "expectedPackageFiles": [
+    "/home/mike/.nuget/packages/microsoft.netcore.app.ref/7.0.3/microsoft.netcore.app.ref.7.0.3.nupkg.sha512",
+    "/home/mike/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512",
+    "/home/mike/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.3/microsoft.netcore.app.host.linux-x64.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

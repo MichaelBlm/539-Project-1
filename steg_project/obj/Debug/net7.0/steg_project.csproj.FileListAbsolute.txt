@@ -1,0 +1,15 @@
+/home/mike/steg_project/bin/Debug/net7.0/steg_project
+/home/mike/steg_project/bin/Debug/net7.0/steg_project.deps.json
+/home/mike/steg_project/bin/Debug/net7.0/steg_project.runtimeconfig.json
+/home/mike/steg_project/bin/Debug/net7.0/steg_project.dll
+/home/mike/steg_project/bin/Debug/net7.0/steg_project.pdb
+/home/mike/steg_project/obj/Debug/net7.0/steg_project.csproj.AssemblyReference.cache
+/home/mike/steg_project/obj/Debug/net7.0/steg_project.GeneratedMSBuildEditorConfig.editorconfig
+/home/mike/steg_project/obj/Debug/net7.0/steg_project.AssemblyInfoInputs.cache
+/home/mike/steg_project/obj/Debug/net7.0/steg_project.AssemblyInfo.cs
+/home/mike/steg_project/obj/Debug/net7.0/steg_project.csproj.CoreCompileInputs.cache
+/home/mike/steg_project/obj/Debug/net7.0/steg_project.dll
+/home/mike/steg_project/obj/Debug/net7.0/refint/steg_project.dll
+/home/mike/steg_project/obj/Debug/net7.0/steg_project.pdb
+/home/mike/steg_project/obj/Debug/net7.0/steg_project.genruntimeconfig.cache
+/home/mike/steg_project/obj/Debug/net7.0/ref/steg_project.dll
